@@ -25,6 +25,7 @@ This recipe is scaled down to a practical **1-gallon** batch. It incorporates da
 |---------------------------|--------------------|------------------------------|
 | **Buckwheat Honey**       | ~0.25 lb (4 oz)    | Dark malt character          |
 | **Wildflower/Clover Honey** | ~1.25 lb (20 oz) | Caramelized (Bochet method)  |
+| **Backstrap Molasses**    | ~2 oz (6 grams)
 
 ### Hops (~1 oz total):
 
@@ -33,6 +34,13 @@ This recipe is scaled down to a practical **1-gallon** batch. It incorporates da
 | Bittering      | Simcoe or Centennial     | ~0.1 oz (3 grams)     |
 | Late Aroma     | Citra (or Amarillo)      | ~0.2 oz (6 grams)     |
 | Dry Hop        | Citra or Mosaic          | ~0.5 oz (14 grams)    |
+
+### Spices
+|Type             | Amount             |
+|-----------------|--------------------|
+| Coffee Grounds  | ~1.0 oz (28 grams)  |
+| Cacao Nibs      | ~1.0 oz (28 grams)  |
+| Vanilla Bean    | 1 bean             |
 
 ### Yeast (pick one):
 
@@ -55,13 +63,15 @@ This recipe is scaled down to a practical **1-gallon** batch. It incorporates da
 
 - Caramelize **1.25 lb (20 oz)** wildflower honey in a saucepan on medium heat (~30–45 min), stirring constantly until dark amber-to-brown.
 - Cool slightly (~150°F), carefully add warm water to thin.
-- Combine caramelized honey and buckwheat honey in fermenter; top up to 1 gallon total. Ensure temp ~65–70°F.
+- Combine caramelized honey and buckwheat honey in fermenter. Ensure temp ~65–70°F.
+- Add Molasses
 
 ### Step 2: Hop Tea *(Bitterness & Flavor)*
 
 - Boil **1–2 cups water**, add bittering hops (**~0.1 oz Simcoe/Centennial**); boil 15 min.
 - Remove heat; add aroma hops (**~0.2 oz Citra**); steep 15–20 min.
 - Strain hop tea into fermenter.
+- Add Water to 1 gal, add additional Buckwheat honey as needed to reach ~1.060–1.065 OG
 
 ### Step 3: Yeast Pitching & Primary Fermentation
 
@@ -79,13 +89,17 @@ This recipe is scaled down to a practical **1-gallon** batch. It incorporates da
 | Yeast pitch              | ⅛ tsp             |
 | After 24 hours           | ⅛ tsp             |
 | After 48 hours           | ⅛ tsp             |
-| At ⅓ sugar break (~1.040)| ⅛ tsp             |
+| At 1/3 sugar break (~1.040)| ⅛ tsp             |
 
 - Gently degas 1–2 times daily for first 3–4 days.
 - Ferment ~2 weeks at 65–70°F until gravity ~0.998–1.000.
 
-### Step 5: Dry Hopping
+### Step 5: Dry Hopping & Spices
 
+- Rack to Secondary
+- Add **~1.0 oz (28 grams)** course ground coffee beans, Steep for 48-72 hours
+- Add **~1.0 oz (28 grams)** cacao nibs, steep for 1-2 weeks
+- Add **1 bean** vanilla, scraped
 - Add **~0.5 oz (14 grams)** dry hops (Citra/Mosaic) once fermentation is nearly complete (gravity ≤1.005).
 - Dry hop for **3–5 days** at room temp (~65–70°F).
 - *(Optional)* Cold crash (**32–40°F**) 24–48 hrs before bottling.
